@@ -1,0 +1,2 @@
+gcc pc_scheduler.c -o pc_scheduler
+xterm & \
